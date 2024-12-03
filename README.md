@@ -1,2 +1,1 @@
-# My
-测试图床
+[图床](https://exio.top)
